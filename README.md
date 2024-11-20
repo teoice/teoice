@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on Tollot
 - 📫 How to reach me Insta
-- 😄 Pronouns: ...
 - ⚡ Fun fact: SimCity is my favourite game.
 
 <!---
