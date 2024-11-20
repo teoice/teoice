@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teoice
 - 👀 I’m interested in SimCity
 - 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on Tollot
+- 💞️ I’m looking to collaborate on (s)Nasa Project.
 - 📫 How to reach me Insta
 - ⚡ Fun fact: SimCity is my favourite game.
 
